@@ -1,0 +1,7 @@
+/home/arseni/projects/Peer_to_peer_AR_Chess/build/CMakeFiles/install/strip.dir
+/home/arseni/projects/Peer_to_peer_AR_Chess/build/CMakeFiles/install/local.dir
+/home/arseni/projects/Peer_to_peer_AR_Chess/build/CMakeFiles/install.dir
+/home/arseni/projects/Peer_to_peer_AR_Chess/build/CMakeFiles/list_install_components.dir
+/home/arseni/projects/Peer_to_peer_AR_Chess/build/CMakeFiles/rebuild_cache.dir
+/home/arseni/projects/Peer_to_peer_AR_Chess/build/CMakeFiles/edit_cache.dir
+/home/arseni/projects/Peer_to_peer_AR_Chess/build/CMakeFiles/game.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/peer_to_peer_ar_chess.dir/main.c.o -o peer_to_peer_ar_chess 
